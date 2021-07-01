@@ -48,4 +48,3 @@ Installation
 Follow these steps to add the {+service-short+} Kotlin Multiplatform SDK to
 your KMM project.
 
-.. include:: /includes/steps/install-kotlin-multiplatform.rst
